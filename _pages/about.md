@@ -22,6 +22,5 @@ Hi, I am a Senior Scientist in the [Neuroenergetics Lab](https://valentinriedl.d
 Prior to that, I received my Bachelor’s degree in the EE Department at [Nanjing University](https://www.nju.edu.cn/en/).
 My research interests focus on deep generative models for visual content creation.  
 
-<font face="" style="color:#CC0000">I am open to research collaboration and internship opportunities. Feel free to <a href="mailto:guoyw.nju@gmail.com">drop me an email</a> if you are interested in working with me. :)</font>
 ---> 
  
