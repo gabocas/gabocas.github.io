@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuwei Guo"
+title                    : "Gabriel Castrillon"
 description              : ""
 repository               : 
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "G-Q776226PQ4"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuwei Guo"
+  name             : "Gabriel Castrillon"
   avatar           : "images/profile.png"
-  bio              : "Ph.D. student, CUHK"
-  location         : "Hong Kong"
+  bio              : "Senior Researcher"
+  location         : "Germany"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=K2ZLY98AAAAJ"
-  email            : "guoyw.nju@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=eH-MHQ4AAAAJ"
+  email            : "juan.castrillon-guzman [at] uk-erlangen.de"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "guoyww"
+  github           : "gabocas"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,13 +45,13 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-7047-906X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "GuoywGuo"
+  twitter          : "gabocas"
   vine             :
   weibo            :
   xing             :
