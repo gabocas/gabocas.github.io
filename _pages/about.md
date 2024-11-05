@@ -17,6 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I study the healthy brain through non-invasive multimodal neuroimaging techniques to uncover the complex relationships among its anatomical, functional, metabolic, and molecular characteristics. I amcurrently Senior Scientist in the [Neuroenergetics Lab](https://valentinriedl.de/) at the [Institute of Neuroradiology](https://www.neuroradiologie.uk-erlangen.de) from [Uniklinikum Erlangen](https://www.uk-erlangen.de) and Medical Imaging Scientific Consultant in the Biosciences group of [SURA](https://www.sura.co/web/ayudas-diagnosticas).
+I study the healthy brain through non-invasive multimodal neuroimaging techniques to uncover the complex relationships among its anatomical, functional, metabolic, and molecular characteristics. I am currently Senior Scientist in the [Neuroenergetics Lab](https://valentinriedl.de/) at the [Institute of Neuroradiology](https://www.neuroradiologie.uk-erlangen.de) from [Uniklinikum Erlangen](https://www.uk-erlangen.de) and Medical Imaging Scientific Consultant in the Biosciences group of [SURA](https://www.sura.co/web/ayudas-diagnosticas).
 
  
