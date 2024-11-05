@@ -27,7 +27,7 @@ I study the healthy brain through non-invasive multimodal neuroimaging technique
 <div class='paper-box-text' markdown="1">
 
 [**An energy costly architecture of neuromodulators for human brain evolution and cognition**](https://www.science.org/doi/10.1126/sciadv.adi7632)
-[Code](https://github.com/NeuroenergeticsLab/energetic_costs)| Citations: <span class='show_paper_citations' data='eH-MHQ4AAAAJ:RHpTSmoSYBkC'></span>
+[Code](https://github.com/NeuroenergeticsLab/energetic_costs)| [Data](https://openneuro.org/datasets/ds004513) |Citations: <span class='show_paper_citations' data='eH-MHQ4AAAAJ:RHpTSmoSYBkC'></span>
 
 **Gabriel Castrillon**,
 [Samira Epp](https://orcid.org/0000-0003-3041-7440),
@@ -44,7 +44,7 @@ Lalith Sundar,
 [Katarzyna Kurcyus](https://orcid.org/0000-0003-4741-2021),
 [Valentin Riedl](https://valentinriedl.de/) 
 
-I "audited" where all the sugar is "spent" in the 🧠, generating a map of the energetic costs, interpreted from evolutive, cytoarchitectural, molecular, and cognitive points of view.
+I audited where all the sugar is spent in the 🧠, generating a map of the energetic costs, interpreted from evolutive, cytoarchitectural, molecular, and cognitive points of view.
 </div>
 </div>
 <!-- Energetic costs -->
