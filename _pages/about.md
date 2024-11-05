@@ -17,10 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a Senior Scientist in the [Neuroenergetics Lab](https://valentinriedl.de/) at the [Institute of Neuroradiology](https://www.neuroradiologie.uk-erlangen.de) from [Uniklinikum Erlangen](https://www.uk-erlangen.de).
-<!---  
-Prior to that, I received my Bachelor’s degree in the EE Department at [Nanjing University](https://www.nju.edu.cn/en/).
-My research interests focus on deep generative models for visual content creation.  
+Senior Scientist in the [Neuroenergetics Lab](https://valentinriedl.de/) at the [Institute of Neuroradiology](https://www.neuroradiologie.uk-erlangen.de) from [Uniklinikum Erlangen](https://www.uk-erlangen.de).
 
----> 
  
