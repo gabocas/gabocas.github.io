@@ -26,7 +26,7 @@ I study the healthy brain through non-invasive multimodal neuroimaging technique
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances 2024</div><img src='images/energeticCosts.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**[An energy costly architecture of neuromodulators for human brain evolution and cognition]**](https://www.science.org/doi/10.1126/sciadv.adi7632)
+[**An energy costly architecture of neuromodulators for human brain evolution and cognition**](https://www.science.org/doi/10.1126/sciadv.adi7632)
 [Code](https://github.com/NeuroenergeticsLab/energetic_costs)| Citations: <span class='show_paper_citations' data='eH-MHQ4AAAAJ:RHpTSmoSYBkC'></span>
 
 **Gabriel Castrillon**,
