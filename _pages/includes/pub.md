@@ -48,7 +48,7 @@ Moritz Bursche,
 
 [Code](https://github.com/NeuroenergeticsLab/simultaneous_CMRO2_CMRglc) &nbsp; [Data](https://openneuro.org/datasets/ds005036) &nbsp; <span class='show_paper_citations' data='eH-MHQ4AAAAJ:M3NEmzRMIkIC'></span>
 
-For the first time, we demonstrated how to measure CMRO2 and CMRglc simultaneously, revealing a fascinating increase in glucose metabolism without a corresponding rise in oxygen, leading to a decrease in glycolytic metabolism during brain activity.
+We simultaneously measured CMRO2 and CMRglc for the first time, showing an increase in glucose metabolism without a corresponding rise in oxygen consumption, which suggests an enhanced glycolytic metabolism during brain activity.
 </div>
 </div>
 <!-- fPET VisStim -->
