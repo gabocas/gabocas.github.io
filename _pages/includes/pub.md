@@ -1,7 +1,7 @@
 # 📝 Selected Publications
 
 <!-- Energetic costs -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances 2023</div><img src='images/energeticCosts.jpg' alt="energetic Costs" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">📌Science Advances 2023</div><img src='images/energeticCosts.jpg' alt="energetic Costs" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**An energy costly architecture of neuromodulators for human brain evolution and cognition**](https://www.science.org/doi/10.1126/sciadv.adi7632) 
@@ -27,6 +27,26 @@ I audited where all the sugar is spent in the 🧠, generating a map of the ener
 </div>
 </div>
 <!-- Energetic costs -->
+
+<!-- qBOLD -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Neurosci 2025</div><img src='images/qBOLDdiscordant.png' alt="qBOLD discordant" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**BOLD signal changes can oppose oxygen metabolism across the human cortex**](https://doi.org/10.1038/s41593-025-02132-9)
+ 
+[Samira Epp](https://orcid.org/0000-0003-3041-7440),
+**Gabriel Castrillon**,
+Beijia Yuan,
+[Jessica Andrews-Hanna](https://orcid.org/0000-0003-1769-6756),
+[Christine Preibisch](https://orcid.org/0000-0003-4067-1928),
+[Valentin Riedl](https://valentinriedl.de/) 
+
+[Code](https://github.com/NeuroenergeticsLab/two_modes_of_hemodynamics) &nbsp; [Data](https://openneuro.org/datasets/ds004873) &nbsp; <span class='show_paper_citations' data='eH-MHQ4AAAAJ:M3NEmzRMIkIC'></span>
+
+Samira showed that roughly 40% of robust BOLD voxels flip their oxygen‑metabolism response, exposing two distinct hemodynamic modes.
+</div>
+</div>
+<!-- qBOLD -->
 
 <!-- fPET VisStim -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/visStim.jpg' alt="fPET visStim" width="100%"></div></div>
