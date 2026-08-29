@@ -29,7 +29,7 @@ I audited where all the sugar is spent in the 🧠, generating a map of the ener
 <!-- Energetic costs -->
 
 <!-- qBOLD -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Neurosci 2025</div><img src='images/qBOLDdiscordant.png' alt="qBOLD discordant" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Neurosci 2026</div><img src='images/qBOLDdiscordant.png' alt="qBOLD discordant" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**BOLD signal changes can oppose oxygen metabolism across the human cortex**](https://doi.org/10.1038/s41593-025-02132-9)
@@ -47,6 +47,24 @@ Samira showed that roughly 40% of robust BOLD voxels flip their oxygen‑metabol
 </div>
 </div>
 <!-- qBOLD -->
+
+<!-- MwC -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS 2026</div><img src='images/MwcNeurosynth.png' alt="MwC and cognition" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Metabolism-weighted brain connectome reveals synaptic integration and vulnerability to neurodegeneration**](https://doi.org/10.1073/pnas.2531706123)
+ 
+[Mahnaz Ashrafi](https://orcid.org/0000-0003-2466-7689),
+[Laura Fraticelli](https://orcid.org/0000-0002-8450-4796),
+**Gabriel Castrillon**,
+[Valentin Riedl](https://valentinriedl.de/) 
+
+[Code](https://github.com/NeuroenergeticsLab/metabolism_weighted_centrality) &nbsp; [Data](https://openneuro.org/datasets/ds004513) &nbsp; <span class='show_paper_citations' data='eH-MHQ4AAAAJ:M3NEmzRMIkIC'></span>
+
+Mahnaz showed that the brain's hungriest regions drive our smartest thinking, but that same hard work makes them more vulnerable to neurodegeneration later in life.
+</div>
+</div>
+<!-- MwC -->
 
 <!-- fPET VisStim -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2024</div><img src='images/visStim.jpg' alt="fPET visStim" width="100%"></div></div>
