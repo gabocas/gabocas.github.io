@@ -9,7 +9,7 @@
   | first
 -%}
 
-{%- if work -%}
+{%- if work and work.citation_count > 0 -%}
   <a href="https://openalex.org/{{ work.openalex_id }}"
      rel="noopener noreferrer">
     {{ work.citation_count | commaify }} 
