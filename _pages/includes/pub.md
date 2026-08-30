@@ -41,7 +41,7 @@ Beijia Yuan,
 [Christine Preibisch](https://orcid.org/0000-0003-4067-1928),
 [Valentin Riedl](https://valentinriedl.de/) 
 
-[Code](https://github.com/NeuroenergeticsLab/two_modes_of_hemodynamics) &nbsp; [Data](https://openneuro.org/datasets/ds004873) &nbsp <span class='show_paper_citations' data='eH-MHQ4AAAAJ:M3NEmzRMIkIC'></span>
+[Code](https://github.com/NeuroenergeticsLab/two_modes_of_hemodynamics) &nbsp; [Data](https://openneuro.org/datasets/ds004873) &nbsp; <span class='citation-count'> {%- include openalex-citation.html doi="10.1038/s41593-025-02132-9" -%}</span>
 
 Samira showed that roughly 40% of robust BOLD voxels flip their oxygen‑metabolism response, exposing two distinct hemodynamic modes.
 </div>
@@ -59,7 +59,7 @@ Samira showed that roughly 40% of robust BOLD voxels flip their oxygen‑metabol
 **Gabriel Castrillon**,
 [Valentin Riedl](https://valentinriedl.de/) 
 
-[Code](https://github.com/NeuroenergeticsLab/metabolism_weighted_centrality) &nbsp; [Data](https://openneuro.org/datasets/ds004513) &nbsp; <span class='show_paper_citations' data='eH-MHQ4AAAAJ:M3NEmzRMIkIC'></span>
+[Code](https://github.com/NeuroenergeticsLab/metabolism_weighted_centrality) &nbsp; [Data](https://openneuro.org/datasets/ds004513) &nbsp; <span class='citation-count'> {%- include openalex-citation.html doi="10.1073/pnas.2531706123" -%}</span>
 
 Mahnaz showed that the brain's hungriest regions drive our smartest thinking, but that same hard work makes them more vulnerable to neurodegeneration later in life.
 </div>
@@ -84,7 +84,7 @@ Moritz Bursche,
 **Gabriel Castrillon** & 
 [Valentin Riedl](https://valentinriedl.de/) 
 
-[Code](https://github.com/NeuroenergeticsLab/simultaneous_CMRO2_CMRglc) &nbsp; [Data](https://openneuro.org/datasets/ds005036) &nbsp; <span class='show_paper_citations' data='eH-MHQ4AAAAJ:M3NEmzRMIkIC'></span>
+[Code](https://github.com/NeuroenergeticsLab/simultaneous_CMRO2_CMRglc) &nbsp; [Data](https://openneuro.org/datasets/ds005036) &nbsp;  [Data](https://openneuro.org/datasets/ds004513) &nbsp; <span class='citation-count'> {%- include openalex-citation.html doi="10.1101/2024.10.11.617828" -%}</span>
 
 We simultaneously measured CMRO2 and CMRglc for the first time, showing an increase in glucose metabolism without a corresponding rise in oxygen consumption, which suggests an enhanced glycolytic metabolism during brain activity.
 </div>
@@ -104,7 +104,7 @@ We simultaneously measured CMRO2 and CMRglc for the first time, showing an incre
 [Bratislav Misic](https://orcid.org/0000-0003-0307-2862),
 [Valentin Riedl](https://valentinriedl.de/) 
 
-[Code](https://github.com/NeuroenergeticsLab/control_costs) &nbsp; [Data](https://osf.io/nw9zt/) &nbsp; <span class='show_paper_citations' data='eH-MHQ4AAAAJ:j3f4tGmQtD8C'></span>
+[Code](https://github.com/NeuroenergeticsLab/control_costs) &nbsp; [Data](https://osf.io/nw9zt/) &nbsp; <span class='citation-count'> {%- include openalex-citation.html doi="10.1162/netn_a_00425" -%}</span>
 
 Eric showed that the brain balances functional efficiency and energy conservation by minimizing costly transitions between different activity states using network control theory.
 </div>
