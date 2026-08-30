@@ -1,17 +1,17 @@
-{% assign normalized_doi = include.doi
+{%- assign normalized_doi = include.doi
   | remove: "https://doi.org/"
   | remove: "http://doi.org/"
   | downcase
-%}
+-%}
 
-{% assign work = site.data.citations.works
+{%- assign work = site.data.citations.works
   | where: "doi", normalized_doi
   | first
-%}
+-%}
 
-{% if work %}
+{%- if work -%}
   <a href="https://openalex.org/{{ work.openalex_id }}"
      rel="noopener noreferrer">
     {{ work.citation_count | commaify }} 
   </a> OpenAlex citations
-{% endif %}
+{%- endif -%}
