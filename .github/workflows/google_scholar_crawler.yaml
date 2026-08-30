@@ -31,13 +31,21 @@ jobs:
 
       - name: Commit updated citation data
         run: |
-          if git diff --quiet -- _data/citations.yml; then
-            echo "Citation count is unchanged."
+          echo "Repository status:"
+          git status --short
+
+          echo "Generated data:"
+          ls -la _data
+          test -f _data/citations.yml
+
+          git add _data/citations.yml
+
+          if git diff --cached --quiet; then
+            echo "Citation data is unchanged; no commit needed."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _data/citations.yml
           git commit -m "chore: update OpenAlex citation count"
-          git push
+          git push origin HEAD:${{ github.ref_name }}
