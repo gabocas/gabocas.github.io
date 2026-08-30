@@ -21,7 +21,7 @@ Lalith Sundar,
 [Katarzyna Kurcyus](https://orcid.org/0000-0003-4741-2021),
 [Valentin Riedl](https://valentinriedl.de/) 
 
-[Code](https://github.com/NeuroenergeticsLab/energetic_costs) &nbsp; [Data](https://openneuro.org/datasets/ds004513) &nbsp; <span class='show_paper_citations' data='eH-MHQ4AAAAJ:RHpTSmoSYBkC'></span>
+[Code](https://github.com/NeuroenergeticsLab/energetic_costs) &nbsp; [Data](https://openneuro.org/datasets/ds004513) &nbsp; <span class='citation-count'>{% include openalex-citation.html doi="10.1126/sciadv.adi7632" %}</span>
 
 I audited where all the sugar is spent in the 🧠, generating a map of the energetic costs, interpreted from evolutive, cytoarchitectural, molecular, and cognitive points of view.
 </div>
