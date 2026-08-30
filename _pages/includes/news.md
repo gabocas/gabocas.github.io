@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.09*: ✨ Supervision Auditing Framework for Chest Radiograph AI accepted as oral presentation at [MSB](https://miccaimsb.github.io/emerge/) MICCAI A Strasbourg 2026
+- *2026.09*: ✨ A Supervision Auditing Framework for Chest Radiograph AI accepted as oral presentation at [MSB](https://miccaimsb.github.io/emerge/) MICCAI Strasbourg 2026
 - *2025.07*: ✨ I was invited to present our work on Quantitative metabolic brain imaging using simultaneous PET/MRI at [DACH-ISMRM Workshop](https://ismrm-dach.org/wp-content/uploads/2025/05/DACH-ISMRM_Labmeeting_Hyper_and_Hops_TUM.pdf) Munich 2025
 - *2024.08*: ✨ Comprehensive CEST of HC accepted as oral presentation at [ESMRMB](https://www.esmrmb.org/congress/past-meetings/congress-2024/) Barcelona 2024
 - *2024.07*: ✨ The molecular fingerprint of CEST accepted as oral presentation at [CEST workshop](https://www.cestworkshop.org/) Nürnberg 2024
