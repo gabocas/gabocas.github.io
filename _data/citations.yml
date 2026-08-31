@@ -1,10 +1,10 @@
 openalex:
   author_id: A5073888048
   author_name: Gabriel Castrillón
-  citation_count: 1350
+  citation_count: 1352
   works_count: 44
   retrieved_works_count: 44
-  updated_at: '2026-08-30T08:45:37Z'
+  updated_at: '2026-08-31T10:52:04Z'
 works:
 - openalex_id: W4414757148
   doi: 10.1073/pnas.2531706123
