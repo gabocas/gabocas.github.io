@@ -1,10 +1,10 @@
 openalex:
   author_id: A5073888048
   author_name: Gabriel Castrillón
-  citation_count: 1352
-  works_count: 44
-  retrieved_works_count: 44
-  updated_at: '2026-08-31T10:52:04Z'
+  citation_count: 1356
+  works_count: 46
+  retrieved_works_count: 46
+  updated_at: '2026-09-07T09:21:40Z'
 works:
 - openalex_id: W4414757148
   doi: 10.1073/pnas.2531706123
@@ -18,7 +18,7 @@ works:
   title: BOLD signal changes can oppose oxygen metabolism across the human cortex
   publication_date: '2025-12-16'
   type: article
-  citation_count: 28
+  citation_count: 29
 - openalex_id: W4404334434
   doi: 10.1162/netn_a_00425
   title: The control costs of human brain dynamics
@@ -58,7 +58,7 @@ works:
     and cognition
   publication_date: '2023-12-13'
   type: article
-  citation_count: 93
+  citation_count: 94
 - openalex_id: W4389507285
   doi: 10.1101/2023.12.08.570806
   title: BOLD signal changes can oppose oxygen metabolism across the human cortex
@@ -114,7 +114,7 @@ works:
     differ across the human cortex
   publication_date: '2020-01-31'
   type: article
-  citation_count: 119
+  citation_count: 120
 - openalex_id: W2982074655
   doi: 10.21500/20112084.3971
   title: Rostral Middle Frontal Volumetric Differences in Bipolar Offspring versus
@@ -164,7 +164,7 @@ works:
     disease
   publication_date: '2017-09-07'
   type: article
-  citation_count: 30
+  citation_count: 31
 - openalex_id: W2765947284
   doi: 10.1016/j.jalz.2017.06.097
   title: '[P1–030]: RELATIONSHIPS BETWEEN MEMORY FUNCTION, TAU PATHOLOGY AND FUNCTIONAL
@@ -289,6 +289,13 @@ works:
   publication_date: '2011-01-01'
   type: article
   citation_count: 1
+- openalex_id: W7206251758
+  doi: null
+  title: Effects of Medication on fMRI Brain Activation Patterns in Bipolar Disorder
+    Type I Patients Challenged with Working Memory Tasks
+  publication_date: '2011-01-01'
+  type: article
+  citation_count: 0
 - openalex_id: W2171892383
   doi: 10.1002/ana.22105
   title: Hippocampal hyperactivation in presymptomatic familial Alzheimer's disease
@@ -312,5 +319,12 @@ works:
     in Functional Magnetic Resonance Imaging of Bipolar Patients Using a Working Memory
     Paradigm'
   publication_date: '2010-09-01'
+  type: article
+  citation_count: 0
+- openalex_id: W7206943295
+  doi: null
+  title: Differences in Functional Magnetic Resonance Imaging of Bipolar Patients
+    Using a Working Memory Paradigm
+  publication_date: '2010-01-01'
   type: article
   citation_count: 0
