@@ -4,7 +4,7 @@ openalex:
   citation_count: 1356
   works_count: 46
   retrieved_works_count: 46
-  updated_at: '2026-09-07T09:21:40Z'
+  updated_at: '2026-09-14T09:56:53Z'
 works:
 - openalex_id: W4414757148
   doi: 10.1073/pnas.2531706123
@@ -18,7 +18,7 @@ works:
   title: BOLD signal changes can oppose oxygen metabolism across the human cortex
   publication_date: '2025-12-16'
   type: article
-  citation_count: 29
+  citation_count: 30
 - openalex_id: W4404334434
   doi: 10.1162/netn_a_00425
   title: The control costs of human brain dynamics
