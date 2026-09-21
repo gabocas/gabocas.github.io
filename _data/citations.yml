@@ -1,10 +1,10 @@
 openalex:
   author_id: A5073888048
   author_name: Gabriel Castrillón
-  citation_count: 1356
+  citation_count: 1363
   works_count: 46
   retrieved_works_count: 46
-  updated_at: '2026-09-14T09:56:53Z'
+  updated_at: '2026-09-21T09:56:59Z'
 works:
 - openalex_id: W4414757148
   doi: 10.1073/pnas.2531706123
@@ -18,7 +18,7 @@ works:
   title: BOLD signal changes can oppose oxygen metabolism across the human cortex
   publication_date: '2025-12-16'
   type: article
-  citation_count: 30
+  citation_count: 31
 - openalex_id: W4404334434
   doi: 10.1162/netn_a_00425
   title: The control costs of human brain dynamics
@@ -27,8 +27,8 @@ works:
   citation_count: 20
 - openalex_id: W4403376232
   doi: 10.1101/2024.10.11.617828
-  title: Simultaneous quantification of oxygen and glucose consumption during visual
-    stimulation in the human cortex
+  title: Region-specific uncoupling of oxygen and glucose metabolism in the human
+    cortex during visual stimulation
   publication_date: '2024-10-12'
   type: preprint
   citation_count: 0
@@ -58,7 +58,7 @@ works:
     and cognition
   publication_date: '2023-12-13'
   type: article
-  citation_count: 94
+  citation_count: 95
 - openalex_id: W4389507285
   doi: 10.1101/2023.12.08.570806
   title: BOLD signal changes can oppose oxygen metabolism across the human cortex
@@ -114,7 +114,7 @@ works:
     differ across the human cortex
   publication_date: '2020-01-31'
   type: article
-  citation_count: 120
+  citation_count: 121
 - openalex_id: W2982074655
   doi: 10.21500/20112084.3971
   title: Rostral Middle Frontal Volumetric Differences in Bipolar Offspring versus
@@ -187,7 +187,7 @@ works:
     bipolar I disorder patients compared with unmedicated patients and healthy subjects
   publication_date: '2017-02-01'
   type: article
-  citation_count: 81
+  citation_count: 82
 - openalex_id: W2533873482
   doi: 10.1016/j.jaac.2016.09.085
   title: 2.19 NEUROANATOMICAL CHARACTERIZATION OF AFFECTED AND UNAFFECTED ADOLESCENTS
@@ -301,7 +301,7 @@ works:
   title: Hippocampal hyperactivation in presymptomatic familial Alzheimer's disease
   publication_date: '2010-12-01'
   type: article
-  citation_count: 256
+  citation_count: 258
 - openalex_id: W2125715308
   doi: 10.1016/s0034-7450(14)60220-1
   title: Diferencias en la resonancia magnética funcional en pacientes con trastorno
