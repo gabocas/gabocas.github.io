@@ -1,10 +1,10 @@
 openalex:
   author_id: A5073888048
   author_name: Gabriel Castrillón
-  citation_count: 1363
-  works_count: 46
-  retrieved_works_count: 46
-  updated_at: '2026-09-21T09:56:59Z'
+  citation_count: 1371
+  works_count: 47
+  retrieved_works_count: 51
+  updated_at: '2026-09-28T10:55:09Z'
 works:
 - openalex_id: W4414757148
   doi: 10.1073/pnas.2531706123
@@ -13,12 +13,39 @@ works:
   publication_date: '2026-06-22'
   type: article
   citation_count: 0
+- openalex_id: W7162749783
+  doi: 10.64898/2026.05.28.728560
+  title: Neural energy metabolism encodes directed communication across the human
+    cortex
+  publication_date: '2026-05-29'
+  type: preprint
+  citation_count: 0
+- openalex_id: W7128515060
+  doi: 10.1038/s42003-026-09693-w
+  title: Bridging glucose metabolism and intrinsic functional organization of the
+    human cortex
+  publication_date: '2026-02-10'
+  type: article
+  citation_count: 0
+- openalex_id: W7124155432
+  doi: 10.1016/j.psyneuen.2026.107759
+  title: Linking allostatic load, heart rate variability and brain functional networks
+    and structures in healthy men
+  publication_date: '2026-01-14'
+  type: article
+  citation_count: 1
+- openalex_id: W7126159932
+  doi: 10.18112/openneuro.ds004513.v1.0.6
+  title: The energetic costs of the human connectome
+  publication_date: '2026-01-01'
+  type: dataset
+  citation_count: 0
 - openalex_id: W4417359775
   doi: 10.1038/s41593-025-02132-9
   title: BOLD signal changes can oppose oxygen metabolism across the human cortex
   publication_date: '2025-12-16'
   type: article
-  citation_count: 31
+  citation_count: 33
 - openalex_id: W4404334434
   doi: 10.1162/netn_a_00425
   title: The control costs of human brain dynamics
@@ -107,14 +134,14 @@ works:
     in extended pedigrees from population isolates
   publication_date: '2020-02-24'
   type: article
-  citation_count: 38
+  citation_count: 39
 - openalex_id: W3004412340
   doi: 10.1126/sciadv.aay2739
   title: The physiological effects of noninvasive brain stimulation fundamentally
     differ across the human cortex
   publication_date: '2020-01-31'
   type: article
-  citation_count: 121
+  citation_count: 122
 - openalex_id: W2982074655
   doi: 10.21500/20112084.3971
   title: Rostral Middle Frontal Volumetric Differences in Bipolar Offspring versus
@@ -164,7 +191,7 @@ works:
     disease
   publication_date: '2017-09-07'
   type: article
-  citation_count: 31
+  citation_count: 32
 - openalex_id: W2765947284
   doi: 10.1016/j.jalz.2017.06.097
   title: '[P1–030]: RELATIONSHIPS BETWEEN MEMORY FUNCTION, TAU PATHOLOGY AND FUNCTIONAL
@@ -187,7 +214,7 @@ works:
     bipolar I disorder patients compared with unmedicated patients and healthy subjects
   publication_date: '2017-02-01'
   type: article
-  citation_count: 82
+  citation_count: 83
 - openalex_id: W2533873482
   doi: 10.1016/j.jaac.2016.09.085
   title: 2.19 NEUROANATOMICAL CHARACTERIZATION OF AFFECTED AND UNAFFECTED ADOLESCENTS
@@ -214,7 +241,7 @@ works:
   title: Evaluation of Multiband EPI Acquisitions for Resting State fMRI
   publication_date: '2015-09-16'
   type: article
-  citation_count: 111
+  citation_count: 112
 - openalex_id: W2212096975
   doi: 10.3233/jad-150214
   title: Successful Scene Encoding in Presymptomatic Early-Onset Alzheimer’s Disease
@@ -225,6 +252,13 @@ works:
   doi: 10.1016/j.jalz.2015.06.972
   title: 'P3‐104: Associations between subjective memory complaints and hippocampal
     volume in preclinical early‐onset Alzheimer''s disease'
+  publication_date: '2015-07-01'
+  type: article
+  citation_count: 0
+- openalex_id: W7131940448
+  doi: null
+  title: Associations between subjective memory complaints and hippocampal volume
+    in preclinical early-onset Alzheimer's disease
   publication_date: '2015-07-01'
   type: article
   citation_count: 0
@@ -301,7 +335,7 @@ works:
   title: Hippocampal hyperactivation in presymptomatic familial Alzheimer's disease
   publication_date: '2010-12-01'
   type: article
-  citation_count: 258
+  citation_count: 262
 - openalex_id: W2125715308
   doi: 10.1016/s0034-7450(14)60220-1
   title: Diferencias en la resonancia magnética funcional en pacientes con trastorno
