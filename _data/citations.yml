@@ -1,10 +1,10 @@
 openalex:
   author_id: A5073888048
   author_name: Gabriel Castrillón
-  citation_count: 1371
-  works_count: 47
+  citation_count: 1386
+  works_count: 51
   retrieved_works_count: 51
-  updated_at: '2026-09-28T10:55:09Z'
+  updated_at: '2026-10-05T11:29:50Z'
 works:
 - openalex_id: W4414757148
   doi: 10.1073/pnas.2531706123
@@ -26,7 +26,7 @@ works:
     human cortex
   publication_date: '2026-02-10'
   type: article
-  citation_count: 0
+  citation_count: 2
 - openalex_id: W7124155432
   doi: 10.1016/j.psyneuen.2026.107759
   title: Linking allostatic load, heart rate variability and brain functional networks
@@ -85,7 +85,7 @@ works:
     and cognition
   publication_date: '2023-12-13'
   type: article
-  citation_count: 95
+  citation_count: 99
 - openalex_id: W4389507285
   doi: 10.1101/2023.12.08.570806
   title: BOLD signal changes can oppose oxygen metabolism across the human cortex
@@ -169,7 +169,7 @@ works:
   title: Understanding the Hidden Complexity of Latin American Population Isolates
   publication_date: '2018-10-25'
   type: article
-  citation_count: 73
+  citation_count: 75
 - openalex_id: W2896463690
   doi: 10.1097/wnp.0000000000000528
   title: 'Intranetwork and Internetwork Effects of Navigated Transcranial Magnetic
@@ -228,7 +228,7 @@ works:
     human brain
   publication_date: '2015-12-28'
   type: article
-  citation_count: 130
+  citation_count: 132
 - openalex_id: W2219586409
   doi: 10.1073/pnas.1513525113
   title: Genetic contributions to circadian activity rhythm and sleep pattern phenotypes
@@ -241,7 +241,7 @@ works:
   title: Evaluation of Multiband EPI Acquisitions for Resting State fMRI
   publication_date: '2015-09-16'
   type: article
-  citation_count: 112
+  citation_count: 111
 - openalex_id: W2212096975
   doi: 10.3233/jad-150214
   title: Successful Scene Encoding in Presymptomatic Early-Onset Alzheimer’s Disease
@@ -274,7 +274,7 @@ works:
     of Extended Pedigrees
   publication_date: '2014-02-12'
   type: article
-  citation_count: 123
+  citation_count: 124
 - openalex_id: W2889969493
   doi: 10.13140/2.1.1951.9363
   title: COMPUTERIZED RADIOLOGY SCHEDULING SUPPORT USING A RULES ENGINE
@@ -335,7 +335,7 @@ works:
   title: Hippocampal hyperactivation in presymptomatic familial Alzheimer's disease
   publication_date: '2010-12-01'
   type: article
-  citation_count: 262
+  citation_count: 263
 - openalex_id: W2125715308
   doi: 10.1016/s0034-7450(14)60220-1
   title: Diferencias en la resonancia magnética funcional en pacientes con trastorno
