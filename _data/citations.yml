@@ -1,11 +1,25 @@
 openalex:
   author_id: A5073888048
   author_name: Gabriel Castrillón
-  citation_count: 1386
-  works_count: 51
+  citation_count: 1302
+  works_count: 46
   retrieved_works_count: 51
-  updated_at: '2026-10-05T11:29:50Z'
+  updated_at: '2026-10-12T11:59:45Z'
 works:
+- openalex_id: W7215906360
+  doi: 10.18112/openneuro.ds008786.v1.1.0
+  title: Region-specific uncoupling of oxygen and glucose metabolism in the human
+    cortex during visual stimulation
+  publication_date: '2026-10-02'
+  type: dataset
+  citation_count: 0
+- openalex_id: W7202261365
+  doi: 10.48550/arxiv.2608.10084
+  title: 'When Repository Labels Are Not Image-Level Truth: A Supervision Auditing
+    Framework for Chest Radiograph AI'
+  publication_date: '2026-08-10'
+  type: preprint
+  citation_count: 0
 - openalex_id: W4414757148
   doi: 10.1073/pnas.2531706123
   title: Metabolism-weighted brain connectome reveals synaptic integration and vulnerability
@@ -26,7 +40,7 @@ works:
     human cortex
   publication_date: '2026-02-10'
   type: article
-  citation_count: 2
+  citation_count: 6
 - openalex_id: W7124155432
   doi: 10.1016/j.psyneuen.2026.107759
   title: Linking allostatic load, heart rate variability and brain functional networks
@@ -40,18 +54,36 @@ works:
   publication_date: '2026-01-01'
   type: dataset
   citation_count: 0
+- openalex_id: W7140098904
+  doi: 10.18112/openneuro.ds004873.v2.0.7
+  title: BOLD signal changes can oppose oxygen metabolism across the human cortex
+  publication_date: '2026-01-01'
+  type: dataset
+  citation_count: 0
+- openalex_id: W7140101585
+  doi: 10.18112/openneuro.ds007549.v1.0.0
+  title: Two distinct modes of hemodynamic responses in the human brain
+  publication_date: '2026-01-01'
+  type: dataset
+  citation_count: 0
+- openalex_id: W7168365241
+  doi: 10.25593/978-3-96147-958-0
+  title: BAIOSPHERE MEDICAL 2026 — Book of Abstracts
+  publication_date: '2026-01-01'
+  type: article
+  citation_count: 0
 - openalex_id: W4417359775
   doi: 10.1038/s41593-025-02132-9
   title: BOLD signal changes can oppose oxygen metabolism across the human cortex
   publication_date: '2025-12-16'
   type: article
-  citation_count: 33
+  citation_count: 41
 - openalex_id: W4404334434
   doi: 10.1162/netn_a_00425
   title: The control costs of human brain dynamics
   publication_date: '2024-11-13'
   type: article
-  citation_count: 20
+  citation_count: 23
 - openalex_id: W4403376232
   doi: 10.1101/2024.10.11.617828
   title: Region-specific uncoupling of oxygen and glucose metabolism in the human
@@ -59,39 +91,20 @@ works:
   publication_date: '2024-10-12'
   type: preprint
   citation_count: 0
-- openalex_id: W4402930099
-  doi: 10.1101/2024.09.26.615152
-  title: Bridging Glucose Metabolism and Intrinsic Functional Organization of the
-    Human Cortex
-  publication_date: '2024-09-26'
-  type: preprint
-  citation_count: 4
 - openalex_id: W4392132926
   doi: 10.1016/j.psyneuen.2024.107003
   title: Sympathovagal quotient and resting-state functional connectivity of control
     networks are related to gut Ruminococcaceae abundance in healthy men
   publication_date: '2024-02-23'
   type: article
-  citation_count: 5
-- openalex_id: W4391229446
-  doi: 10.1101/2024.01.24.577068
-  title: The control costs of human brain dynamics
-  publication_date: '2024-01-25'
-  type: preprint
-  citation_count: 3
+  citation_count: 4
 - openalex_id: W4389697126
   doi: 10.1126/sciadv.adi7632
   title: An energy costly architecture of neuromodulators for human brain evolution
     and cognition
   publication_date: '2023-12-13'
   type: article
-  citation_count: 99
-- openalex_id: W4389507285
-  doi: 10.1101/2023.12.08.570806
-  title: BOLD signal changes can oppose oxygen metabolism across the human cortex
-  publication_date: '2023-12-09'
-  type: preprint
-  citation_count: 9
+  citation_count: 95
 - openalex_id: W4380894046
   doi: 10.1002/alz.068199
   title: 'Decreased functional integration in higher‐order association areas in individuals
@@ -100,13 +113,6 @@ works:
   publication_date: '2023-06-01'
   type: article
   citation_count: 0
-- openalex_id: W4366976835
-  doi: 10.1101/2023.04.25.538209
-  title: An energy costly architecture of neuromodulators for human brain evolution
-    and cognition
-  publication_date: '2023-04-25'
-  type: preprint
-  citation_count: 11
 - openalex_id: W4361857238
   doi: 10.1007/978-3-031-29783-0_2
   title: Classification of Focused Perturbations Using Time-Variant Functional Connectivity
@@ -134,14 +140,14 @@ works:
     in extended pedigrees from population isolates
   publication_date: '2020-02-24'
   type: article
-  citation_count: 39
+  citation_count: 34
 - openalex_id: W3004412340
   doi: 10.1126/sciadv.aay2739
   title: The physiological effects of noninvasive brain stimulation fundamentally
     differ across the human cortex
   publication_date: '2020-01-31'
   type: article
-  citation_count: 122
+  citation_count: 115
 - openalex_id: W2982074655
   doi: 10.21500/20112084.3971
   title: Rostral Middle Frontal Volumetric Differences in Bipolar Offspring versus
@@ -169,7 +175,7 @@ works:
   title: Understanding the Hidden Complexity of Latin American Population Isolates
   publication_date: '2018-10-25'
   type: article
-  citation_count: 75
+  citation_count: 67
 - openalex_id: W2896463690
   doi: 10.1097/wnp.0000000000000528
   title: 'Intranetwork and Internetwork Effects of Navigated Transcranial Magnetic
@@ -178,20 +184,13 @@ works:
   publication_date: '2018-10-18'
   type: article
   citation_count: 20
-- openalex_id: W2855142678
-  doi: 10.1101/363267
-  title: Contribution of common and rare variants to bipolar disorder susceptibility
-    in extended pedigrees from population isolates
-  publication_date: '2018-07-08'
-  type: preprint
-  citation_count: 13
 - openalex_id: W2751501952
   doi: 10.1212/wnl.0000000000004533
   title: Subjective memory complaints in preclinical autosomal dominant Alzheimer
     disease
   publication_date: '2017-09-07'
   type: article
-  citation_count: 32
+  citation_count: 31
 - openalex_id: W2765947284
   doi: 10.1016/j.jalz.2017.06.097
   title: '[P1–030]: RELATIONSHIPS BETWEEN MEMORY FUNCTION, TAU PATHOLOGY AND FUNCTIONAL
@@ -214,7 +213,7 @@ works:
     bipolar I disorder patients compared with unmedicated patients and healthy subjects
   publication_date: '2017-02-01'
   type: article
-  citation_count: 83
+  citation_count: 81
 - openalex_id: W2533873482
   doi: 10.1016/j.jaac.2016.09.085
   title: 2.19 NEUROANATOMICAL CHARACTERIZATION OF AFFECTED AND UNAFFECTED ADOLESCENTS
@@ -228,20 +227,20 @@ works:
     human brain
   publication_date: '2015-12-28'
   type: article
-  citation_count: 132
+  citation_count: 123
 - openalex_id: W2219586409
   doi: 10.1073/pnas.1513525113
   title: Genetic contributions to circadian activity rhythm and sleep pattern phenotypes
     in pedigrees segregating for severe bipolar disorder
   publication_date: '2015-12-28'
   type: article
-  citation_count: 94
+  citation_count: 89
 - openalex_id: W2201637961
   doi: 10.1371/journal.pone.0136961
   title: Evaluation of Multiband EPI Acquisitions for Resting State fMRI
   publication_date: '2015-09-16'
   type: article
-  citation_count: 111
+  citation_count: 101
 - openalex_id: W2212096975
   doi: 10.3233/jad-150214
   title: Successful Scene Encoding in Presymptomatic Early-Onset Alzheimer’s Disease
@@ -267,14 +266,14 @@ works:
   title: Learning with multi-site fMRI graph data
   publication_date: '2014-11-01'
   type: conference-paper
-  citation_count: 9
+  citation_count: 8
 - openalex_id: W1996801244
   doi: 10.1001/jamapsychiatry.2013.4100
   title: Multisystem Component Phenotypes of Bipolar Disorder for Genetic Investigations
     of Extended Pedigrees
   publication_date: '2014-02-12'
   type: article
-  citation_count: 124
+  citation_count: 121
 - openalex_id: W2889969493
   doi: 10.13140/2.1.1951.9363
   title: COMPUTERIZED RADIOLOGY SCHEDULING SUPPORT USING A RULES ENGINE
@@ -287,7 +286,7 @@ works:
     phase sequence in pediatric patients
   publication_date: '2013-05-30'
   type: article
-  citation_count: 23
+  citation_count: 17
 - openalex_id: W2127128912
   doi: 10.4067/s0717-93082013000300005
   title: Angiografía no contrastada con "Arterial Spin Labeling"
@@ -314,7 +313,7 @@ works:
     Objects'
   publication_date: '2012-03-08'
   type: article
-  citation_count: 24
+  citation_count: 25
 - openalex_id: W2018252971
   doi: 10.1016/s0034-7450(14)60195-5
   title: Efecto de la medicación en los patrones de activación cerebral en resonancia
@@ -335,7 +334,7 @@ works:
   title: Hippocampal hyperactivation in presymptomatic familial Alzheimer's disease
   publication_date: '2010-12-01'
   type: article
-  citation_count: 263
+  citation_count: 256
 - openalex_id: W2125715308
   doi: 10.1016/s0034-7450(14)60220-1
   title: Diferencias en la resonancia magnética funcional en pacientes con trastorno
