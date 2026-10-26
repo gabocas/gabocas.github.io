@@ -1,10 +1,10 @@
 openalex:
   author_id: A5073888048
   author_name: Gabriel Castrillón
-  citation_count: 1289
+  citation_count: 1291
   works_count: 85
   retrieved_works_count: 52
-  updated_at: '2026-10-19T09:54:43Z'
+  updated_at: '2026-10-26T10:08:09Z'
 works:
 - openalex_id: W7215906360
   doi: 10.18112/openneuro.ds008786.v1.1.0
@@ -111,7 +111,7 @@ works:
     and cognition
   publication_date: '2023-12-13'
   type: article
-  citation_count: 96
+  citation_count: 97
 - openalex_id: W4380894046
   doi: 10.1002/alz.068199
   title: 'Decreased functional integration in higher‐order association areas in individuals
@@ -341,7 +341,7 @@ works:
   title: Hippocampal hyperactivation in presymptomatic familial Alzheimer's disease
   publication_date: '2010-12-01'
   type: article
-  citation_count: 253
+  citation_count: 254
 - openalex_id: W2125715308
   doi: 10.1016/s0034-7450(14)60220-1
   title: Diferencias en la resonancia magnética funcional en pacientes con trastorno
