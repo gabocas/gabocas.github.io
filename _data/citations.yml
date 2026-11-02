@@ -1,10 +1,10 @@
 openalex:
   author_id: A5073888048
   author_name: Gabriel Castrillón
-  citation_count: 1291
+  citation_count: 1292
   works_count: 85
   retrieved_works_count: 52
-  updated_at: '2026-10-26T10:08:09Z'
+  updated_at: '2026-11-02T12:25:17Z'
 works:
 - openalex_id: W7215906360
   doi: 10.18112/openneuro.ds008786.v1.1.0
@@ -197,7 +197,7 @@ works:
     disease
   publication_date: '2017-09-07'
   type: article
-  citation_count: 31
+  citation_count: 30
 - openalex_id: W2765947284
   doi: 10.1016/j.jalz.2017.06.097
   title: '[P1–030]: RELATIONSHIPS BETWEEN MEMORY FUNCTION, TAU PATHOLOGY AND FUNCTIONAL
@@ -234,7 +234,7 @@ works:
     human brain
   publication_date: '2015-12-28'
   type: article
-  citation_count: 122
+  citation_count: 123
 - openalex_id: W2219586409
   doi: 10.1073/pnas.1513525113
   title: Genetic contributions to circadian activity rhythm and sleep pattern phenotypes
@@ -341,7 +341,7 @@ works:
   title: Hippocampal hyperactivation in presymptomatic familial Alzheimer's disease
   publication_date: '2010-12-01'
   type: article
-  citation_count: 254
+  citation_count: 255
 - openalex_id: W2125715308
   doi: 10.1016/s0034-7450(14)60220-1
   title: Diferencias en la resonancia magnética funcional en pacientes con trastorno
