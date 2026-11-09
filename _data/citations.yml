@@ -1,10 +1,10 @@
 openalex:
   author_id: A5073888048
   author_name: Gabriel Castrillón
-  citation_count: 1292
-  works_count: 85
-  retrieved_works_count: 52
-  updated_at: '2026-11-02T12:25:17Z'
+  citation_count: 1318
+  works_count: 80
+  retrieved_works_count: 49
+  updated_at: '2026-11-09T12:52:43Z'
 works:
 - openalex_id: W7215906360
   doi: 10.18112/openneuro.ds008786.v1.1.0
@@ -47,7 +47,7 @@ works:
     human cortex
   publication_date: '2026-02-10'
   type: article
-  citation_count: 6
+  citation_count: 8
 - openalex_id: W7124155432
   doi: 10.1016/j.psyneuen.2026.107759
   title: Linking allostatic load, heart rate variability and brain functional networks
@@ -84,7 +84,7 @@ works:
   title: BOLD signal changes can oppose oxygen metabolism across the human cortex
   publication_date: '2025-12-16'
   type: article
-  citation_count: 41
+  citation_count: 49
 - openalex_id: W4404334434
   doi: 10.1162/netn_a_00425
   title: The control costs of human brain dynamics
@@ -97,7 +97,7 @@ works:
     cortex during visual stimulation
   publication_date: '2024-10-12'
   type: preprint
-  citation_count: 0
+  citation_count: 3
 - openalex_id: W4392132926
   doi: 10.1016/j.psyneuen.2024.107003
   title: Sympathovagal quotient and resting-state functional connectivity of control
@@ -111,7 +111,7 @@ works:
     and cognition
   publication_date: '2023-12-13'
   type: article
-  citation_count: 97
+  citation_count: 102
 - openalex_id: W4380894046
   doi: 10.1002/alz.068199
   title: 'Decreased functional integration in higher‐order association areas in individuals
@@ -154,7 +154,7 @@ works:
     differ across the human cortex
   publication_date: '2020-01-31'
   type: article
-  citation_count: 112
+  citation_count: 115
 - openalex_id: W2982074655
   doi: 10.21500/20112084.3971
   title: Rostral Middle Frontal Volumetric Differences in Bipolar Offspring versus
@@ -162,13 +162,6 @@ works:
   publication_date: '2019-09-05'
   type: article
   citation_count: 2
-- openalex_id: W2945550369
-  doi: 10.1101/639237
-  title: The physiological effects of non-invasive brain stimulation fundamentally
-    differ across the human cortex
-  publication_date: '2019-05-17'
-  type: preprint
-  citation_count: 11
 - openalex_id: W2911434313
   doi: 10.1016/j.brs.2018.12.520
   title: Intra- and inter-network effects of navigated transcranial magnetic stimulation
@@ -182,7 +175,7 @@ works:
   title: Understanding the Hidden Complexity of Latin American Population Isolates
   publication_date: '2018-10-25'
   type: article
-  citation_count: 63
+  citation_count: 62
 - openalex_id: W2896463690
   doi: 10.1097/wnp.0000000000000528
   title: 'Intranetwork and Internetwork Effects of Navigated Transcranial Magnetic
@@ -190,14 +183,14 @@ works:
     Prefrontal Cortex: A Combined rTMS–fMRI Approach'
   publication_date: '2018-10-18'
   type: article
-  citation_count: 20
+  citation_count: 21
 - openalex_id: W2751501952
   doi: 10.1212/wnl.0000000000004533
   title: Subjective memory complaints in preclinical autosomal dominant Alzheimer
     disease
   publication_date: '2017-09-07'
   type: article
-  citation_count: 30
+  citation_count: 32
 - openalex_id: W2765947284
   doi: 10.1016/j.jalz.2017.06.097
   title: '[P1–030]: RELATIONSHIPS BETWEEN MEMORY FUNCTION, TAU PATHOLOGY AND FUNCTIONAL
@@ -220,7 +213,7 @@ works:
     bipolar I disorder patients compared with unmedicated patients and healthy subjects
   publication_date: '2017-02-01'
   type: article
-  citation_count: 81
+  citation_count: 82
 - openalex_id: W2533873482
   doi: 10.1016/j.jaac.2016.09.085
   title: 2.19 NEUROANATOMICAL CHARACTERIZATION OF AFFECTED AND UNAFFECTED ADOLESCENTS
@@ -234,20 +227,20 @@ works:
     human brain
   publication_date: '2015-12-28'
   type: article
-  citation_count: 123
+  citation_count: 121
 - openalex_id: W2219586409
   doi: 10.1073/pnas.1513525113
   title: Genetic contributions to circadian activity rhythm and sleep pattern phenotypes
     in pedigrees segregating for severe bipolar disorder
   publication_date: '2015-12-28'
   type: article
-  citation_count: 88
+  citation_count: 90
 - openalex_id: W2201637961
   doi: 10.1371/journal.pone.0136961
   title: Evaluation of Multiband EPI Acquisitions for Resting State fMRI
   publication_date: '2015-09-16'
   type: article
-  citation_count: 99
+  citation_count: 101
 - openalex_id: W2212096975
   doi: 10.3233/jad-150214
   title: Successful Scene Encoding in Presymptomatic Early-Onset Alzheimer’s Disease
@@ -273,14 +266,14 @@ works:
   title: Learning with multi-site fMRI graph data
   publication_date: '2014-11-01'
   type: conference-paper
-  citation_count: 9
+  citation_count: 8
 - openalex_id: W1996801244
   doi: 10.1001/jamapsychiatry.2013.4100
   title: Multisystem Component Phenotypes of Bipolar Disorder for Genetic Investigations
     of Extended Pedigrees
   publication_date: '2014-02-12'
   type: article
-  citation_count: 121
+  citation_count: 122
 - openalex_id: W2889969493
   doi: 10.13140/2.1.1951.9363
   title: COMPUTERIZED RADIOLOGY SCHEDULING SUPPORT USING A RULES ENGINE
@@ -320,7 +313,7 @@ works:
     Objects'
   publication_date: '2012-03-08'
   type: article
-  citation_count: 25
+  citation_count: 26
 - openalex_id: W2018252971
   doi: 10.1016/s0034-7450(14)60195-5
   title: Efecto de la medicación en los patrones de activación cerebral en resonancia
@@ -329,19 +322,12 @@ works:
   publication_date: '2011-01-01'
   type: article
   citation_count: 1
-- openalex_id: W7206251758
-  doi: null
-  title: Effects of Medication on fMRI Brain Activation Patterns in Bipolar Disorder
-    Type I Patients Challenged with Working Memory Tasks
-  publication_date: '2011-01-01'
-  type: article
-  citation_count: 0
 - openalex_id: W2171892383
   doi: 10.1002/ana.22105
   title: Hippocampal hyperactivation in presymptomatic familial Alzheimer's disease
   publication_date: '2010-12-01'
   type: article
-  citation_count: 255
+  citation_count: 260
 - openalex_id: W2125715308
   doi: 10.1016/s0034-7450(14)60220-1
   title: Diferencias en la resonancia magnética funcional en pacientes con trastorno
@@ -352,15 +338,6 @@ works:
   publication_date: '2010-09-01'
   type: article
   citation_count: 6
-- openalex_id: W3213940692
-  doi: null
-  title: 'Diferencias en la resonancia magnética funcional en pacientes con trastorno
-    bipolar usando un paradigma de memoria de trabajo Translated title: Differences
-    in Functional Magnetic Resonance Imaging of Bipolar Patients Using a Working Memory
-    Paradigm'
-  publication_date: '2010-09-01'
-  type: article
-  citation_count: 0
 - openalex_id: W7206943295
   doi: null
   title: Differences in Functional Magnetic Resonance Imaging of Bipolar Patients
